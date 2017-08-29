@@ -1,0 +1,1 @@
+This is an algorithm for calculating a parallel summ on multiple processors using threads in Java. The sources also containt code for testing synchronization between threads in java, by exemplifying a producer - consumer problem.
